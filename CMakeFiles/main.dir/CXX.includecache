@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/helga/Documents/AK/5semester/calculator/calculator.h
+
+/home/helga/Documents/AK/5semester/calculator/main.cpp
+iostream
+-
+calculator.h
+/home/helga/Documents/AK/5semester/calculator/calculator.h
+

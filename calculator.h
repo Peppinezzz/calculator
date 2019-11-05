@@ -5,7 +5,7 @@
 class Calculator
 {
 public:
-	int add (double, double);
+	static int add (double, double);
 	int sub (double, double);
 	int mul (double, double);
 	int div (double, double);

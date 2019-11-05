@@ -1,0 +1,15 @@
+CC=g++
+
+all: main
+
+main: main.o calculator.o
+	$(CC) calculator.o main.o -o main
+
+calculator.o: calculator.cpp
+	$(CC) -c -o calculator.o calculator.cpp
+
+main.o: main.cpp
+	$(CC) -c -o main.o main.cpp
+
+clean:
+	rm -f *.o main

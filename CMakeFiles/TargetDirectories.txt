@@ -1,0 +1,4 @@
+/home/helga/Documents/AK/5semester/calculator/CMakeFiles/rebuild_cache.dir
+/home/helga/Documents/AK/5semester/calculator/CMakeFiles/calculator.dir
+/home/helga/Documents/AK/5semester/calculator/CMakeFiles/edit_cache.dir
+/home/helga/Documents/AK/5semester/calculator/CMakeFiles/main.dir
